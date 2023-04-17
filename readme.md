@@ -1,9 +1,9 @@
 # Atividade integrada - SENAI 2023
 
-| MOBILE | DESKTOP |
-| :----: | :-----: |
+| DESKTOP |
+| :-----: |
 
-![](https://repository-images.githubusercontent.com/618073290/a3f02c70-b7f2-4962-a5fa-ce29c81af351)
+|[](![print-readme](https://user-images.githubusercontent.com/109964242/232483013-197077ac-2187-4b75-88e4-3a6e79fd5620.png)|![] ()
 
 [Clique aqui](inserir-link) para acessar o site.
 
